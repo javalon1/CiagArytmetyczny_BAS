@@ -1,3 +1,7 @@
+// n – liczba wyrazów ciągu do wygenerowania
+// a – pierwszy wyraz ciągu,
+// d – przyrost     a = a + (i - 1) x d
+
 package com.sda.algorytmy;
 import java.util.Scanner;
 
@@ -40,6 +44,3 @@ public class App
     }
 
 }
-// n – liczba wyrazów ciągu do wygenerowania
-// a – pierwszy wyraz ciągu,
-// d – przyrost     a = a + (i - 1) x d
